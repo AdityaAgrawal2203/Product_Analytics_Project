@@ -141,9 +141,3 @@ A `screenshots/` directory is included to provide visual context for various sta
 * Machine learning model evaluation plots (ROC curve, confusion matrix, feature importances).
 
 ---
-
-## ✍️ Author
-
-* **Sanjay Krishna MV** - [[LinkedIn](www.linkedin.com/in/sanjay-krishna-mv)] | [[GitHub](https://github.com/SANJAY-KRISHNA-MV)]
-
----
